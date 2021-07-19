@@ -28,4 +28,13 @@ Technical development and programming, which are trending now,  always attracted
         - [Certificate](https://stepik.org/cert/953699)
 - July 2021
     - Code Basics. [HTML for beginners](https://ru.code-basics.com/languages/html)
-        
+### EDUCATION
+Sep 2000 - Mar 2006.  
+National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".  
+Location: Kyiv, Ukraine.  
+Specialization: Electrical Power Consumption Systems.  
+Degree: Master
+### LANGUAGES
+Russian - native  
+Ukrainian - free
+English - B1 - intermediate
