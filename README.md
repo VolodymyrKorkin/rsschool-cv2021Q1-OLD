@@ -1,1 +1,0 @@
-https://VolodymyrKorkin.github.io/rsschool-cv/cv
