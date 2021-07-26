@@ -36,5 +36,5 @@ Specialization: Electrical Power Consumption Systems.
 Degree: Master
 ### LANGUAGES
 Russian - native  
-Ukrainian - free
-English - B1 - intermediate
+Ukrainian - free  
+English - B1 - intermediate  
